@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/my-react-app/static/css/main.e7312af0.css",
+    "main.js": "/my-react-app/static/js/main.22806451.js",
+    "static/media/home.jpg": "/my-react-app/static/media/home.c1421fe4b496e7d464cc.jpg",
+    "static/media/NunitoSans-ExtraBold.ttf": "/my-react-app/static/media/NunitoSans-ExtraBold.4a5d6556491c59216e34.ttf",
+    "static/media/NunitoSans-Light.ttf": "/my-react-app/static/media/NunitoSans-Light.86a3fc73d62aa4ef737b.ttf",
+    "static/media/NunitoSans-SemiBold.ttf": "/my-react-app/static/media/NunitoSans-SemiBold.9c621098613423154fdf.ttf",
+    "static/media/NunitoSans-Medium.ttf": "/my-react-app/static/media/NunitoSans-Medium.23e7a6fbf39113d4bda0.ttf",
+    "static/media/NunitoSans-Regular.ttf": "/my-react-app/static/media/NunitoSans-Regular.a02d444a210c95569024.ttf",
+    "static/media/NunitoSans-Bold.ttf": "/my-react-app/static/media/NunitoSans-Bold.e43c5a897c0189a89b62.ttf",
+    "static/media/logo.png": "/my-react-app/static/media/logo.4e5aa5ed07c1e895e54f.png",
+    "static/media/sold.jpg": "/my-react-app/static/media/sold.0a18b8c8476a57dada9a.jpg",
+    "static/media/rent.jpg": "/my-react-app/static/media/rent.3d8ecbb4ea824ef57250.jpg",
+    "static/media/revicons.eot": "/my-react-app/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/my-react-app/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/my-react-app/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/my-react-app/index.html",
+    "main.e7312af0.css.map": "/my-react-app/static/css/main.e7312af0.css.map",
+    "main.22806451.js.map": "/my-react-app/static/js/main.22806451.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7312af0.css",
+    "static/js/main.22806451.js"
+  ]
+}
